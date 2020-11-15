@@ -1,0 +1,50 @@
+Numpy Project
+
+
+1. Explain the overall purpose of the package.
+
+NumPy is a python library used for working with arrays. 
+It also has functions for working in domain of linear algebra, fourier transform, and matrices. 
+NumPy was created in 2005 by Travis Oliphant. 
+It is an open source project and you can use it freely. NumPy stands for Numerical Python
+
+(https://www.w3schools.com/python/numpy_intro.asp)
+
+NumPy is an open-source numerical Python library. 
+NumPy contains a multi-dimensional array and matrix data structures. 
+It can be utilised to perform a number of mathematical operations on arrays such as trigonometric, statistical,
+and algebraic routines.
+Therefore, the library contains a large number of mathematical, algebraic, and transformation functions.
+NumPy is an extension of Numeric and Numarray.
+Numpy also contains random number generators.
+NumPy is a wrapper around a library implemented in C.
+Pandas objects rely heavily on NumPy objects. Essentially, Pandas extends Numpy.
+
+
+Most Important Numpy Data Types:
+One-dimensional array
+Multi-dimensional array
+Others: 
+Boolean
+Integer (signed and unsigned)
+Float
+Complex
+
+Ways to Create an Array
+
+(https://medium.com/fintechexplained/why-should-we-use-numpy-c14a4fb03ee9)
+
+
+***Good Information****
+What is numpy
+Benefits
+NumPy Arrays
+NumPy Indexing and Assignment
+NumPy Methods and Operations
+
+****(https://www.freecodecamp.org/news/the-ultimate-guide-to-the-numpy-scientific-computing-library-for-python/)****
+
+
+
+
+(https://www.python-course.eu/numpy.php-read)   - READ
